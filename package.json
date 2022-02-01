@@ -1,8 +1,8 @@
 {
-  "name": "react-native-disable-battery-optimizations-android",
-  "version": "1.0.6",
-  "description": "A react native library for checking battery optimization and whitelisting in Android",
-  "main": "index.js",
+  "name": "react-native-disable-battery-optimizations-android-typescript",
+  "version": "1.0.0",
+  "description": "A working, updated version of the plugin by @rasheedk",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,11 +16,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rasheedk/react-native-disable-battery-optimizations-android.git"
+    "url": "git+https://github.com/curtisy1/react-native-disable-battery-optimizations-android.git"
   },
-  "author": "@rasheedk",
+  "author": "@curtisy1",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.64.2"
   }
 }
